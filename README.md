@@ -2,7 +2,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap" rel="stylesheet">
 
-body{font-family: 'Texturina', serif;}
+body {
+font-family: 'Texturina', serif;
+}
 
 <h1>Qianyu</h1>
 😊😊
