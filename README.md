@@ -1,6 +1,6 @@
 # IAD
-Class materials for Inquiry-based Art + Design 
+Hi, I am Qianyu :)
+This website is my Class materials for Inquiry-based Art + Design - FALL 2020
 
-1111
 
 https://miay1122.github.io/IAD
