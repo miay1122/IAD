@@ -7,7 +7,7 @@ This website is my Class materials for Inquiry-based Art + Design - FALL 2020
 
 <h3>Cardboard Exploration</h3>
 <figure>
-<img src = "https://github.com/miay1122/IAD/blob/main/cdbd/IMG_0826.JPG" alt = "cardboard explore" style = "width:50%">
+<img src = "https://github.com/miay1122/IAD/blob/main/cdbd/IMG_0826.JPG" alt = "cardboard explore" style = "width:30%">
  <figcaption>Cardboard Exploration</figcaption>
 </figure>
 
