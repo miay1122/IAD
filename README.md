@@ -1,5 +1,6 @@
 # IAD
-
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap" rel="stylesheet">
 <h1>Qianyu</h1>
 😊😊
 <p><i>Projects and reflection from Inquiry-Based Art and Design, Columbia University Teachers College</i></p>
