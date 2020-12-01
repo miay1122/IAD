@@ -1,6 +1,6 @@
 # IAD
 
-<h1>Hi, I am Qianyu :)</h1>
+<h1>Qianyu</h1>
 😊😊
 
 This website is my Class materials for Inquiry-based Art + Design - FALL 2020
